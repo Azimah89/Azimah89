@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Azimah89
 - 👀 I’m interested in digital health.
 - 🌱 I’m currently learning computer programming, statistical analysis and data engineering.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects related to digital health, data analytics, and health informatics.
 - 📫 How to reach me: through my email
 - 😄 Pronouns: Ms.Azi
 - ⚡ Fun fact: I love exploring how technology can revolutionize healthcare and improve patient outcomes!
